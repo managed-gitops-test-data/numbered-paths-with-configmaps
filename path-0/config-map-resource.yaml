@@ -1,5 +1,0 @@
-apiVersion: v1
-kind: ConfigMap
-metadata:
-  name: numbered-paths-with-configmaps-main-path-0
-data: {}
